@@ -1,6 +1,5 @@
-<img src="/icons/logo-0.png" alt="VSCode Extensions Docket"> 
-<!-- <img src="https://raw.githubusercontent.com/DalpatRathore/vscode-extensions-docket/main/icons/logo.png" alt="VSCode Extensions Docket">  -->
- 
+<img src="icons/logo.png" alt="VSCode Extensions Docket"> 
+
 |           | Extension | Publisher| Snippet |
 |  ---      | :---      | :---     |  :---   |
 |<img width="100" src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.2.0/1643472694801/Microsoft.VisualStudio.Services.Icons.Default"> | [Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Prettier | Code formatter using prettier |
