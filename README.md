@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/DalpatRathore/vscode-extensions-docket/main/icons/logo.png" alt="VSCode Extensions Docket"> 
+<img src="/icons/logo-0.png" alt="VSCode Extensions Docket"> 
+<!-- <img src="https://raw.githubusercontent.com/DalpatRathore/vscode-extensions-docket/main/icons/logo.png" alt="VSCode Extensions Docket">  -->
  
 |           | Extension | Publisher| Snippet |
 |  ---      | :---      | :---     |  :---   |
