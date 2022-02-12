@@ -9,6 +9,10 @@
 |<img width="100" src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.9/1634044270873/Microsoft.VisualStudio.Services.Icons.Default" > | [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) |Jun Han |Auto rename paired HTML/XML tag |
 |<img width="100" src="https://dsznajder.gallerycdn.vsassets.io/extensions/dsznajder/es7-react-js-snippets/4.1.0/1642684475025/Microsoft.VisualStudio.Services.Icons.Default" > | [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) | dsznajder |Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.|
 |<img width="100" src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/1.11.1/1643291824820/Microsoft.VisualStudio.Services.Icons.Default" > | [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) |Ranga Vadhineni | Lightweight Rest API Client for VS Code|
+|<img width="100" src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.7.6/1642429283725/Microsoft.VisualStudio.Services.Icons.Default" > | [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | Tailwind Labs |Intelligent Tailwind CSS tooling for VS Code |
+|<img width="100" src="https://pkief.gallerycdn.vsassets.io/extensions/pkief/material-icon-theme/4.13.0/1644538706149/Microsoft.VisualStudio.Services.Icons.Default"> | [Extension](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Philipp Kief |Material Design Icons for Visual Studio Code |
+<!-- |<img width="100" src="ICON_URL" > | [Extension](EXT_URL) | Publisher |Snippet | -->
+
 
 
 ## Official
