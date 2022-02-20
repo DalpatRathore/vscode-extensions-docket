@@ -1,5 +1,7 @@
 <img src="icons/logo.png" alt="VSCode Extensions Docket"> 
 
+<h2 align="center"> Make it Work, Make it Right, Make it Fast </h2>
+
 |           | Extension | Publisher| Snippet |
 |  ---      | :---      | :---     |  :---   |
 |<img width="100" src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.2.0/1643472694801/Microsoft.VisualStudio.Services.Icons.Default"> | [Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Prettier | Code formatter using prettier |
@@ -12,7 +14,9 @@
 |<img width="100" src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.7.6/1642429283725/Microsoft.VisualStudio.Services.Icons.Default" > | [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | Tailwind Labs |Intelligent Tailwind CSS tooling for VS Code |
 |<img width="100" src="https://pkief.gallerycdn.vsassets.io/extensions/pkief/material-icon-theme/4.13.0/1644538706149/Microsoft.VisualStudio.Services.Icons.Default"> | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Philipp Kief |Material Design Icons for Visual Studio Code |
 |<img width="100" src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/live-sass/3.0.0/1531332580258/Microsoft.VisualStudio.Services.Icons.Default" > | [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) | Ritwick Dey |Compile Sass or Scss to CSS at realtime with live browser reload.|
-<!-- |<img width="100" src="ICON_URL" > | [Extension](EXT_URL) | Publisher |Snippet | -->
+
+<!-- |<img width="100" src="EXT_Icon_URL" > | [EXT_Name_](EXT_URL) | EXT_Publisher | EXT_Snippet | --> 
+
 
 
 
