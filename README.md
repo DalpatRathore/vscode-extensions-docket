@@ -1,6 +1,5 @@
 <img src="icons/logo.png" alt="VSCode Extensions Docket"> 
 
-<h2 align="center"> Make it Work, Make it Right, Make it Fast </h2>
 
 |           | Extension | Publisher| Snippet |
 |  ---      | :---      | :---     |  :---   |
@@ -9,14 +8,14 @@
 |<img width="100" src="https://vscode-icons-team.gallerycdn.vsassets.io/extensions/vscode-icons-team/vscode-icons/11.8.0/1638640450382/Microsoft.VisualStudio.Services.Icons.Default"> | [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) |VSCode Icons Team |Icons for Visual Studio Code |
 |<img width="100" src="https://coenraads.gallerycdn.vsassets.io/extensions/coenraads/bracket-pair-colorizer/1.0.62/1639429155773/Microsoft.VisualStudio.Services.Icons.Default" > | [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) |CoenraadS |A customizable extension for colorizing matching brackets |
 |<img width="100" src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.9/1634044270873/Microsoft.VisualStudio.Services.Icons.Default" > | [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) |Jun Han |Auto rename paired HTML/XML tag |
-|<img width="100" src="https://dsznajder.gallerycdn.vsassets.io/extensions/dsznajder/es7-react-js-snippets/4.1.0/1642684475025/Microsoft.VisualStudio.Services.Icons.Default" > | [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) | dsznajder |Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.|
+|<img width="100" src="https://dsznajder.gallerycdn.vsassets.io/extensions/dsznajder/es7-react-js-snippets/4.1.0/1642684475025/Microsoft.VisualStudio.Services.Icons.Default" > | [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) | D Sznajder |Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.|
 |<img width="100" src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/1.11.1/1643291824820/Microsoft.VisualStudio.Services.Icons.Default" > | [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) |Ranga Vadhineni | Lightweight Rest API Client for VS Code|
 |<img width="100" src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.7.6/1642429283725/Microsoft.VisualStudio.Services.Icons.Default" > | [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | Tailwind Labs |Intelligent Tailwind CSS tooling for VS Code |
 |<img width="100" src="https://pkief.gallerycdn.vsassets.io/extensions/pkief/material-icon-theme/4.13.0/1644538706149/Microsoft.VisualStudio.Services.Icons.Default"> | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Philipp Kief |Material Design Icons for Visual Studio Code |
 |<img width="100" src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/live-sass/3.0.0/1531332580258/Microsoft.VisualStudio.Services.Icons.Default" > | [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) | Ritwick Dey |Compile Sass or Scss to CSS at realtime with live browser reload.|
 |<img width="100" src="https://styled-components.gallerycdn.vsassets.io/extensions/styled-components/vscode-styled-components/1.7.2/1639156137415/Microsoft.VisualStudio.Services.Icons.Default" > | [VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components) | Styled Components | Syntax highlighting for styled-components | 
-
-<!-- |<img width="100" src="EXT_Icon_URL" > | [EXT_Name_](EXT_URL) | EXT_Publisher | EXT_Snippet | --> 
+|<img width="100" src="https://bierner.gallerycdn.vsassets.io/extensions/bierner/emojisense/0.9.0/1631061871283/Microsoft.VisualStudio.Services.Icons.Default" > | [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) | Matt Bierner | Adds suggestions and autocomplete for emoji | 
+<!-- |<img width="100" src="EXT_Icon_URL" > | [EXT_Name](EXT_URL) | EXT_Publisher | EXT_Snippet | --> 
 
 
 
