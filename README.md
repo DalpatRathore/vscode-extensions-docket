@@ -15,7 +15,8 @@
 |<img width="100" src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/live-sass/3.0.0/1531332580258/Microsoft.VisualStudio.Services.Icons.Default" > | [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) | Ritwick Dey |Compile Sass or Scss to CSS at realtime with live browser reload.|
 |<img width="100" src="https://styled-components.gallerycdn.vsassets.io/extensions/styled-components/vscode-styled-components/1.7.2/1639156137415/Microsoft.VisualStudio.Services.Icons.Default" > | [VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components) | Styled Components | Syntax highlighting for styled-components | 
 |<img width="100" src="https://bierner.gallerycdn.vsassets.io/extensions/bierner/emojisense/0.9.0/1631061871283/Microsoft.VisualStudio.Services.Icons.Default" > | [Emoji Sense](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) | Matt Bierner | Adds suggestions and autocomplete for emoji | 
-<!-- |<img width="100" src="EXT_Icon_URL" > | [EXT_Name](EXT_URL) | EXT_Publisher | EXT_Snippet | --> 
+|<img width="100" src="https://johnpapa.gallerycdn.vsassets.io/extensions/johnpapa/vscode-peacock/4.0.0/1637123141619/Microsoft.VisualStudio.Services.Icons.Default" > | [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) | John Papa | Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which. | 
+<!-- |<img width="100" src="Icon_URL" > | [Name](URL) | Publisher | Snippet | --> 
 
 
 
