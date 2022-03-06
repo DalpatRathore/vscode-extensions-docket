@@ -1,5 +1,9 @@
 <img src="icons/logo.png" alt="VSCode Extensions Docket"> 
 
+VS Code extensions feature let’s you add languages, debuggers and tools to your installation to support your development workflow. 
+
+💪 Boost productivity with these amazing VSCode extensions. 🚀🚀🚀
+
 
 |           | Extension | Publisher| Snippet |
 |  ---      | :---      | :---     |  :---   |
