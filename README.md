@@ -5,7 +5,7 @@ VS Code extensions feature let’s you add languages, debuggers and tools to you
 💪 Boost productivity with these amazing VSCode extensions. 🚀🚀🚀
 
 
-|           | Extension | Publisher| Snippet |
+| 🧿         | Extension | Publisher| Snippet |
 |  ---      | :---      | :---     |  :---   |
 |<img width="100" src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.2.0/1643472694801/Microsoft.VisualStudio.Services.Icons.Default"> | [Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Prettier | Code formatter using prettier |
 |<img width="100" src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.4/1643011470561/Microsoft.VisualStudio.Services.Icons.Default"> | [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |Ritwick Dey |Launch a development local Server with live reload feature for static & dynamic pages |
