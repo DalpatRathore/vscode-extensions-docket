@@ -21,6 +21,7 @@ VS Code extensions feature let’s you add languages, debuggers and tools to you
 |<img width="100" src="https://bierner.gallerycdn.vsassets.io/extensions/bierner/emojisense/0.9.0/1631061871283/Microsoft.VisualStudio.Services.Icons.Default" > | [Emoji Sense](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) | Matt Bierner | Adds suggestions and autocomplete for emoji | 
 |<img width="100" src="https://johnpapa.gallerycdn.vsassets.io/extensions/johnpapa/vscode-peacock/4.0.0/1637123141619/Microsoft.VisualStudio.Services.Icons.Default" > | [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) | John Papa | Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which. | 
 |<img width="100" src="https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/quokka-vscode/1.0.450/1646864293010/Microsoft.VisualStudio.Services.Icons.Default" > | [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | Wallaby.js | JavaScript and TypeScript playground in your editor |
+|<img width="100" src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.2.3/1642067257652/Microsoft.VisualStudio.Services.Icons.Default" > | [ESLint](URL) | Microsoft | Integrates ESLint JavaScript into VS Code. |
 <!-- |<img width="100" src="Icon_URL" > | [Name](URL) | Publisher | Snippet | --> 
 
 
