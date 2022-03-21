@@ -23,7 +23,9 @@ VS Code extensions feature let’s you add languages, debuggers and tools to you
 |<img width="100" src="https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/quokka-vscode/1.0.450/1646864293010/Microsoft.VisualStudio.Services.Icons.Default" > | [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | Wallaby.js | JavaScript and TypeScript playground in your editor |
 |<img width="100" src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.2.3/1642067257652/Microsoft.VisualStudio.Services.Icons.Default" > | [ESLint](URL) | Microsoft | Integrates ESLint JavaScript into VS Code. |
 |<img width="100" src="https://chrmarti.gallerycdn.vsassets.io/extensions/chrmarti/regex/0.4.0/1614893264407/Microsoft.VisualStudio.Services.Icons.Default" > | [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) | Christof Marti | Regex matches previewer for JavaScript, TypeScript, PHP and Haxe in Visual Studio Code. | 
+|<img width="100" src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/12.0.5/1647557310304/Microsoft.VisualStudio.Services.Icons.Default" > | [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | GitKraken | Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more |  
 <!-- |<img width="100" src="Icon_URL" > | [Name](URL) | Publisher | Snippet | --> 
+
 
 
 
