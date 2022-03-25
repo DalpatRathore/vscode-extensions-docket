@@ -3,8 +3,14 @@
 VS Code extensions feature let’s you add languages, debuggers and tools to your installation to support your development workflow. 
 
 💪 Boost productivity with these amazing VSCode extensions. 🚀🚀🚀
-
-
+```mermaid
+flowchart LR
+    A[[V S Code]]o---oB([Intelligent Extensions])
+    A o---oC([Keyboard Shortcuts])
+    B-->D(Best Productivity & Speedy Code)
+    C-->D
+```
+    
 | 📍      | Extension | Publisher| Snippet |
 |  ---      | :---      | :---     |  :---   |
 |<img width="100" src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.2.0/1643472694801/Microsoft.VisualStudio.Services.Icons.Default"> | [Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Prettier | Code formatter using prettier |
