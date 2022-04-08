@@ -1,8 +1,7 @@
 <img src="icons/logo.png" alt="VSCode Extensions Docket"> 
+VS Code is one of the best IDE. VS Code extensions feature let’s you add languages, debuggers and tools to your installation to support your development workflow. 
 
-V S Code extensions feature let’s you add languages, debuggers and tools to your installation to support your development workflow. 
-
-💪 Boost productivity with these amazing V S Code extensions. 🚀🚀🚀
+💪 Boost productivity with these amazing VS Code extensions. 🚀🚀🚀
 ```mermaid
 flowchart LR
     A[[V S Code]]o---oB([Intelligent Extensions])
@@ -40,6 +39,6 @@ flowchart LR
 
 
 ## Official
- - V S Code: https://code.visualstudio.com/
+ - VS Code: https://code.visualstudio.com/
  - Extensions: https://marketplace.visualstudio.com/VSCode
 
