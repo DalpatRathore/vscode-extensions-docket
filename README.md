@@ -33,6 +33,7 @@ flowchart LR
 |<img width="100" src="https://ms-vsliveshare.gallerycdn.vsassets.io/extensions/ms-vsliveshare/vsliveshare/1.0.5449/1647448691573/Microsoft.VisualStudio.Services.Icons.Default" > | [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Microsoft | Real-time collaborative development from the comfort of your favorite tools. |  
 |<img width="100" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.21.0/1647876603791/Microsoft.VisualStudio.Services.Icons.Default" > | [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) | Microsoft | Makes it easy to create, manage, and debug containerized applications. | 
 |<img width="100" src="https://vitaliymaz.gallerycdn.vsassets.io/extensions/vitaliymaz/vscode-svg-previewer/0.7.0/1613512329643/Microsoft.VisualStudio.Services.Icons.Default" > | [SVG Previewer](https://marketplace.visualstudio.com/items?itemName=vitaliymaz.vscode-svg-previewer) | Vitalii Mazurenko | Show SVG preview to the side panel |
+|<img width="100" src="https://github.gallerycdn.vsassets.io/extensions/github/remotehub/0.31.2022041201/1649754272889/Microsoft.VisualStudio.Services.Icons.Default" > | [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub) | GitHub | Remotely browse and edit any GitHub repository | 
 <!-- |<img width="100" src="Icon_URL" > | [Name](URL) | Publisher | Snippet | --> 
 
 
