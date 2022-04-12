@@ -1,5 +1,5 @@
 <img src="icons/logo.png" alt="VSCode Extensions Docket"> 
-VS Code is one of the best IDE. VS Code extensions feature let’s you add languages, debuggers and tools to your installation to support your development workflow. 
+Visual Studio Code is a lightweight and very powerful source code editor. VS Code extensions feature let’s you add languages, debuggers and tools to your installation to support your development workflow. 
 
 💪 Boost productivity with these amazing VS Code extensions. 🚀🚀🚀
 ```mermaid
@@ -34,6 +34,7 @@ flowchart LR
 |<img width="100" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.21.0/1647876603791/Microsoft.VisualStudio.Services.Icons.Default" > | [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) | Microsoft | Makes it easy to create, manage, and debug containerized applications. | 
 |<img width="100" src="https://vitaliymaz.gallerycdn.vsassets.io/extensions/vitaliymaz/vscode-svg-previewer/0.7.0/1613512329643/Microsoft.VisualStudio.Services.Icons.Default" > | [SVG Previewer](https://marketplace.visualstudio.com/items?itemName=vitaliymaz.vscode-svg-previewer) | Vitalii Mazurenko | Show SVG preview to the side panel |
 |<img width="100" src="https://github.gallerycdn.vsassets.io/extensions/github/remotehub/0.31.2022041201/1649754272889/Microsoft.VisualStudio.Services.Icons.Default" > | [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub) | GitHub | Remotely browse and edit any GitHub repository | 
+
 <!-- |<img width="100" src="Icon_URL" > | [Name](URL) | Publisher | Snippet | --> 
 
 
