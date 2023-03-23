@@ -6,7 +6,7 @@ Visual Studio Code is a lightweight and very powerful source code editor. VS Cod
 flowchart LR
     A[[V S Code]]o---oB([Intelligent Extensions])
     A o---oC([Keyboard Shortcuts])
-    B-->D(Best Productivity & Speedy Code)
+    B-->D(Best Productivity & Faster Coding)
     C-->D
 ```
     
